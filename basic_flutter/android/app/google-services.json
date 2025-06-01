@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "844740453023",
+    "project_id": "metro-structure",
+    "storage_bucket": "metro-structure.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844740453023:android:b87b202a647ec2c96378aa",
+        "android_client_info": {
+          "package_name": "com.example.basic_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG9ip08x6FifLzn0hqLhWYBqvRKmjvz-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
